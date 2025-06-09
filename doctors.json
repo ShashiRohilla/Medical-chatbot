@@ -1,0 +1,24 @@
+{
+  "Bangalore": [
+    {
+      "name": "Anjali Mehra",
+      "specialization": "Cardiologist",
+      "clinic": "City Heart Care",
+      "contact": "9876543210"
+    },
+    {
+      "name": "Rahul Shah",
+      "specialization": "General Physician",
+      "clinic": "Health First Clinic",
+      "contact": "9876501234"
+    }
+  ],
+  "Delhi": [
+    {
+      "name": "Sunita Rao",
+      "specialization": "ENT Specialist",
+      "clinic": "Delhi ENT Clinic",
+      "contact": "9123456789"
+    }
+  ]
+}
